@@ -1,2 +1,2 @@
-# LearningReact
+# Beginner + React
 Created with CodeSandbox
